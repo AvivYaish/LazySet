@@ -8,9 +8,9 @@ def readme():
 
 setup(
     name='lazy_set',
-    version='1.4.5',
+    version='1.4.6',
     description='A collection that tries to imitate a "lazy" difference and union of sets.',
-    url='https://github.cs.huji.ac.il/aviv-yaish/PHANTOM/tree/master/lazy_set',
+    url='https://github.com/AvivYaish/LazySet',
     author='Aviv Yaish',
     author_email='aviv.yaish@mail.huji.ac.il',
     packages=['lazy_set'],
