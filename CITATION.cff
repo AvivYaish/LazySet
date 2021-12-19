@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Yaish"
+  given-names: "Aviv"
+  orcid: "https://orcid.org/0000-0002-7971-2494"
+title: "LazySet"
+version: 0.041
+doi: 10.13140/RG.2.2.11125.50407
+date-released: 2018-06-19
+url: "https://github.com/AvivYaish/LazySet"
